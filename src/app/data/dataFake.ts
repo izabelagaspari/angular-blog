@@ -34,6 +34,15 @@ export const dataFake = [
     problemas técnicos. Anteriormente, trabalhei na área de infraestrutura no SEBRAE, auxiliando colaboradores, gerenciando chamados, criando planilhas de controle para
     auditoria e desenvolvendo procedimentos técnicos. Também atuei na configuração e manutenção de telefonia, realizando alterações de ramais e ajustes em equipamentos. `,
     "photoCover": "https://hupdata.com/wp-content/uploads/2020/03/17.03.png"
+  },
+  {
+    "id":"4",
+    "title": "Minha experiência:",
+    "description": `Atualmente, atuo na área Dados, em testes, validação e correção de scripts no Azure, além de elaborar planilhas para monitoramento e verificação de atividades.
+    Tenho experiência na criação e manutenção de pipelines e processos de ingestão de dados, alteração de objetos de banco de dados, execução de pipelines e resolução de
+    problemas técnicos. Anteriormente, trabalhei na área de infraestrutura no SEBRAE, auxiliando colaboradores, gerenciando chamados, criando planilhas de controle para
+    auditoria e desenvolvendo procedimentos técnicos. Também atuei na configuração e manutenção de telefonia, realizando alterações de ramais e ajustes em equipamentos. `,
+    "photoCover": "https://cdn.cookielaw.org/logos/bf278563-ac10-417f-8f6f-7b51998dc338/acadaa94-4723-4fc6-9d15-0d7316561595/7c1243eb-e96c-4d72-b8b3-7e676efd5e1f/AvanadeLogoNoTM_AWColor_RGB.png"
   }
 
 ]

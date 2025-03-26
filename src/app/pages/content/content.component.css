@@ -14,8 +14,8 @@
 .content__cover > img{
   border: 5px solid rgb(144, 144, 144);
   border-radius: 5px;
-  width: 400px;
-  min-width: 400px;
+  width: 350px;
+  min-width: 350px;
   height: 300px;
 }
 

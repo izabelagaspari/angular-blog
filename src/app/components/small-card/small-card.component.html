@@ -8,7 +8,9 @@
       >
     </div>
     <div class="small-card__tittle">
-      <h1><a href="#">{{cardTitle}}</a></h1>
+      <a [routerLink]="['/content', id]">
+        <h1>{{cardTitle}}</h1>
+      </a>
     </div>
   </div>
 
